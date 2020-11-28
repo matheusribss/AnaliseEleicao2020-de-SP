@@ -1,3 +1,5 @@
 # AnaliseEleicao2020-de-SP
 
-Analise de dados  da  Eleição 2020 do estado de São Paulo  para prefeitos e vereadores.
+Analise de dados de maior numero de votos para prefeito e vereador no estado de São Paulo.
+
+Video do canal Python Fun  https://www.youtube.com/watch?v=TCAX4prFHpI usado como aprendizado.
